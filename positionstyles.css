@@ -1,0 +1,191 @@
+/* CSS - Name: "positionstyles.css" */
+/* Activity 1 styles */
+.content1 div
+{
+    float:left;
+}
+    .red1 { 
+    width: 100px; 
+    height: 100px; 
+    background-color: red; 
+    } 
+    .green1 {
+    width: 100px; 
+    height: 100px; 
+    background-color: green; 
+    } 
+    .yellow1 {
+    width: 100px; 
+    height: 100px; 
+    background-color: gold; 
+    } 
+    .blue1 {
+    width: 100px; 
+    height: 100px; 
+    background-color: blue; 
+    } 
+     /* Activity 2 styles */ 
+    .red2 {
+    width: 100px; 
+    height: 100px; 
+    background-color: red; 
+    } 
+    .green2 { 
+    width: 100px; 
+    height: 100px; 
+    background-color: green; 
+        margin-top: -50px;
+        margin-left: 50px;
+     } 
+    .yellow2 {
+    width: 100px; 
+    height: 100px; 
+    background-color: gold; 
+        margin-top: -50px;
+        margin-left: 100px;
+    } 
+    .blue2 {
+    width: 100px; 
+    height: 100px; 
+    background-color: blue; 
+        margin-top: -50px;
+        margin-left: 150px;
+    } 
+     /* Activity 3 styles */
+.content3 div
+{
+    display:inline;
+    float:left;
+        
+}
+    .red3 {
+    width: 100px; 
+    height: 100px; 
+    background-color: red;
+        float:left;
+        margin-bottom: 0px;
+        margin-right: 200px;
+} 
+    .green3 {
+    width: 100px; 
+    height: 100px; 
+    background-color: green;
+        float: left;
+        margin-left: 200px;
+     } 
+    .yellow3 {
+    width: 100px; 
+    height: 100px; 
+    background-color: gold; 
+        margin-left: 250px;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        margin-right: 250px;
+        
+     } 
+    .blue3 {
+    width: 600px;
+    height: 100px; 
+    background-color: blue;
+    
+     } 
+     /* Activity 4 styles */ 
+
+    .red4 {
+    width: 100%; 
+    height: 100px; 
+    background-color: red;
+        display: inline-block;
+        margin-bottom: -10px;
+     } 
+    .green4 {
+    width: 275px; 
+    height: 175px; 
+    background-color: green;
+        float:left;
+        margin-right: 25px;
+         display: inline-block;
+        margin-bottom: 0px;
+    } 
+    .yellow4 {
+    width: 275px; 
+    height: 175px; 
+    background-color: gold; 
+        float:left;
+        margin-left: 25px;
+        margin-bottom: 0px;
+         display: inline-block;
+     } 
+    .blue4 {
+    width: 100%; 
+    height: 100px; 
+    background-color: blue; 
+         display: inline-block;
+        
+     } 
+     /* Activity 5 styles */ 
+    .red5 { 
+    width: 100%; 
+    height: 100px; 
+    background-color: red; 
+     } 
+    .green5 { 
+    width: 275px; 
+    height: 100px; 
+    background-color: green; 
+     float: left;
+        margin-right: 25px;
+        margin-top: -50px;
+
+     } 
+    .yellow5 {
+    width: 275px; 
+    height: 100px; 
+    background-color: gold; 
+float: left;
+        margin-left: 25px;
+        margin-top: -50px;
+    } 
+    .blue5 {
+    width: 100%; 
+    height: 100px; 
+    background-color: blue; 
+        display:inline-block;
+        margin-top: 25px;
+     } 
+     /* Activity 6 styles */ 
+    .red6 {
+    width: 100%; 
+    height: 100px; 
+    background-color: red; 
+    } 
+    .green6 {
+    width: 200px; 
+    height: 200px; 
+    background-color: green; 
+        float:left;
+     } 
+    .yellow6 {
+    width: 600px; 
+    height: 275px; 
+    background-color: gold;
+        display: block;
+        font-size: 14px;
+
+    } 
+    .blue6 {
+    width: 100%; 
+    height: 100px; 
+    background-color: blue;
+       
+    } 
+     .activity {
+    width: 600px; 
+    margin: 20px auto; 
+    font-family: Arial, sans-serif; 
+    border: 1px solid black; 
+    padding: 10px; 
+    clear:both; 
+    overflow: auto;
+
+    }
