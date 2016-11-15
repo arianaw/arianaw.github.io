@@ -42,7 +42,10 @@ nav > ul {
 }
 nav li {
     flex: 1 1 8em;
-}  
+} 
+nav a {
+    padding: .85em;
+}
 nav a:link, nav a:visited {
      color:#CBCFDC;
     text-decoration: none;
