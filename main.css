@@ -43,6 +43,17 @@ nav > ul {
 nav li {
     flex: 1 1 8em;
 }  
+nav a:link, nav a:visited {
+     color:#CBCFDC;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #022AAE;
+}
+a{
+    color:#CBCFDC;
+    text-decoration: none;
+}
 section {
             padding: 15px;
         }
