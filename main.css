@@ -130,3 +130,6 @@
  .banner {
      width: 100%;
  }
+.river-title {
+    text-decoration: underline;
+}
