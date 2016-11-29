@@ -7,12 +7,16 @@
  }
  
  .media-icons {
-     float: right;
+     margin: 5px;
  }
+.media-icons img {
+    width: 48px;
+}
  
- #footer {
+ footer {
      display:flex;
      justify-content: space-between;
+     background-color: #941100;
  }
  
  .content {
@@ -41,7 +45,7 @@
  
  nav {
      background-color: #941100;
-     height: 60px;
+     line-height: 60px;
      color: #CBCFDC;
      font-size: 18px;
  }
@@ -54,7 +58,7 @@
  }
  
  nav li {
-     flex: 1 1 6em;
+     flex: 1 0 6.5em;
  }
  
  nav a {
