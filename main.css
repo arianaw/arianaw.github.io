@@ -95,15 +95,6 @@
      flex-flow: row wrap;
      align-items: center;
  }
- #middle-row-blog {
-     background-color:  #941100;
- }
- 
- 
- #middle-row-blog {
-     display: flex;
-     flex-flow: row wrap;
-     align-items: center;}
 
 #encounters-blog {
     line-height: 1.5;
