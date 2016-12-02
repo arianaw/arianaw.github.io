@@ -95,6 +95,9 @@
      flex-flow: row wrap;
      align-items: center;
  }
+.encounters-blog {
+    line-height: 1.5;
+}
  
  img {
      max-width: 100%;
