@@ -9,12 +9,13 @@
  .media-icons {
      margin: 5px;
  }
-.media-icons img {
-    width: 48px;
-}
+ 
+ .media-icons img {
+     width: 48px;
+ }
  
  footer {
-     display:flex;
+     display: flex;
      justify-content: space-between;
      background-color: #941100;
      width: 100%;
@@ -95,10 +96,10 @@
      flex-flow: row wrap;
      align-items: center;
  }
-
-#encounters-blog {
-    line-height: 1.5;
-}
+ 
+ #encounters-blog {
+     line-height: 1.5;
+ }
  
  img {
      max-width: 100%;
@@ -132,18 +133,17 @@
      margin: .5em;
      line-height: 1.5;
  }
-#next-summer {
-    background-color: #CBCFDC; 
-}
  
  .banner {
      width: 100%;
  }
-.rivers-title {
-    text-decoration: underline;
-    margin-top: 60px;
-margin-bottom: 0px;
-}
-.blog-title {
-    text-decoration: underline;
-}
+ 
+ .rivers-title {
+     text-decoration: underline;
+     margin-top: 60px;
+     margin-bottom: 0px;
+ }
+ 
+ .blog-title {
+     text-decoration: underline;
+ }
